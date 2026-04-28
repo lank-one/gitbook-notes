@@ -21,6 +21,7 @@ In my case, based on my experience and in consultation with several colleagues, 
 1. Junior Penetration Tester [eJPTv2](https://security.ine.com/certifications/ejpt-certification/) :white\_check\_mark:&#x20;
 2. HTB Certified Web Exploitation Specialist [CWES](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter) :white\_check\_mark:
 
+* Mobile Application Penetration Tester [eMAPT](https://ine.com/security/certifications/emapt-certification)
 * Burp Suite Certified Practicioner [BSCP](https://portswigger.net/web-security/certification) (?)
 
 3. Certified Red Team Professional [CRTP](https://www.alteredsecurity.com/adlab) ⏳

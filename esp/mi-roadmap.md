@@ -20,6 +20,7 @@ En mi caso, bajo mi experiencia y consultando a varios compañeros, el camino qu
 
 1. Junior Penetration Tester [eJPTv2](https://security.ine.com/certifications/ejpt-certification/) :white\_check\_mark:&#x20;
 2. HTB Certified Web Exploitation Specialist [CWES](https://academy.hackthebox.com/exams/2/) :white\_check\_mark:
+   * Mobile Application Penetration Tester [eMAPT](https://ine.com/security/certifications/emapt-certification)
    * Burp Suite Certified Practicioner [BSCP](https://portswigger.net/web-security/certification) (?)
 3. Certified Red Team Professional [CRTP](https://www.alteredsecurity.com/adlab) ⏳
 4. HTB Certified Penetration Testing Specialist [CPTS](https://academy.hackthebox.com/preview/certifications/htb-certified-penetration-testing-specialist)&#x20;
