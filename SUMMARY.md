@@ -67,6 +67,8 @@
         * [Session Security](esp/writeups/hackthebox/cbbh-skills-assessment/session-security.md)
         * [Web Service & API Attacks](esp/writeups/hackthebox/cbbh-skills-assessment/web-service-and-api-attacks.md)
         * [WordPress](esp/writeups/hackthebox/cbbh-skills-assessment/wordpress.md)
+      * [Android Application Pentesting](esp/writeups/hackthebox/android-application-pentesting/README.md)
+        * [Android Fundamentals](esp/writeups/hackthebox/android-application-pentesting/android-fundamentals.md)
     * [TryHackMe](esp/writeups/tryhackme/README.md)
       * [Blue](esp/writeups/tryhackme/blue.md)
       * [Vulnversity](esp/writeups/tryhackme/vulnversity.md)

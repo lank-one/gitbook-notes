@@ -12,7 +12,7 @@ Lanzamos un escaneo con Nmap:
 nmap -Pn -sV 10.129.201.89
 ```
 
-<figure><img src="../../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 2. **What port is this application running on?**
 
@@ -22,7 +22,7 @@ En el escaneo anterior encontramos la respuesta a esta pregunta.
 
 Accedemos a través del navegador y vemos la versión:
 
-<figure><img src="../../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 **Target**(s): 10.129.201.89
 
@@ -34,7 +34,7 @@ La versión de Tomcat es vulnerable RCE, primero haremos un fuzzeo para localiza
 ffuf -w /usr/share/wordlists/dirb/common.txt -u http://10.129.201.89:8080/cgi/FUZZ.bat
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Identificamos cmd. Descargamos el script para explotar la vuln:
 
@@ -44,9 +44,9 @@ sudo git clone https://github.com/jaiguptanick/CVE-2019-0232
 
 Accedemos al script y lo modificamos:
 
-<figure><img src="../../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Después en el terminal abrimos 3 tabs:
 
@@ -56,7 +56,7 @@ Después en el terminal abrimos 3 tabs:
 nc -lnvp 1234
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Tab 2 - Desde el directorio donde tenemos el script levantamos un servidor HTTP:
 
@@ -64,7 +64,7 @@ nc -lnvp 1234
 sudo python3 -m http.server 8000
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 * Tab 3 - Ejecutamos el script modificado:
 
@@ -72,15 +72,15 @@ sudo python3 -m http.server 8000
 python3 CVE-2019-0232.py
 ```
 
-<figure><img src="../../../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 En la consola a la escucha recibimos la conexión:
 
-<figure><img src="../../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 Navegamos y buscamos la flag:
 
-<figure><img src="../../../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Skills Assessment II
 
@@ -91,7 +91,7 @@ Navegamos y buscamos la flag:
 
 Añadimos al /etc/hosts el vHost con la IP:
 
-<figure><img src="../../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 Lanzamos un escaneo con Nmap:
 
