@@ -38,7 +38,7 @@ Me llamo Alan, más de 4 años trabajando en el sector de la Ciberseguridad. En 
 
 Mi intención con este blog es compartir consejos, tips y guías sobre CTFs, certificaciones y demás, a parte de servirme de repositorio a mí mismo para tener ubicados recursos que puedan servirme en mi día a día, y por supuesto también a vosotr@s.
 
-Intentaré organizarlo de la mejor forma posible para que sea accesible y útil para cualquiera. También irá evolucionando conforme mi experiencia y conocimientos avancen, ya que después de 3 años, ha sido ahora cuando he decidido empezar con las certificaciones. Espero que sea enriquecedor para tod@s.
+Intentaré organizarlo de la mejor forma posible para que sea accesible y útil para cualquiera. También irá evolucionando conforme mi experiencia y conocimientos avancen, ya que después de varios años, ha sido ahora cuando he decidido empezar con las certificaciones. Espero que sea enriquecedor para tod@s.
 
 ¡ Muchas gracias por estar aquí y vamos a por ello !
 
@@ -50,7 +50,7 @@ My name is Alan, I have been working in the Cybersecurity sector for more than 4
 
 My intention with this blog is to share advice, tips and guides about CTFs, certifications and others, as well as serve as a repository for myself to have located resources that can serve me in my day to day, and of course also to you.&#x20;
 
-I will try to organize it in the best possible way to make it accessible and useful to anyone. It will also evolve as my experience and knowledge progress, since after 3 years, it is now when I have decided to start with the certifications. I hope it will be enriching for everyone.&#x20;
+I will try to organize it in the best possible way to make it accessible and useful to anyone. It will also evolve as my experience and knowledge progress, since after a couple of years, it is now when I have decided to start with the certifications. I hope it will be enriching for everyone.&#x20;
 
 Thank you very much for being here and let's go for it !
 
