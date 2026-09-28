@@ -2,6 +2,30 @@
 icon: chevron-right
 cover: .gitbook/assets/L4nk0n3.jpg
 coverY: -612.1413333333333
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+    mask: none
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+  anchors:
+    visible: true
 ---
 
 # whoami
@@ -10,7 +34,7 @@ coverY: -612.1413333333333
 
 ¡ Bienvenid@ a mi blog !
 
-Me llamo Alan, llevo cerca de unos 3 años trabajando en el sector de la Ciberseguridad. En mi trayectoria profesional he desarrollado diferentes puestos, pero siempre me ha llamado la atención el Pentesting / Red Team aunque nunca he ocupado un puesto de ello.&#x20;
+Me llamo Alan, más de 4 años trabajando en el sector de la Ciberseguridad. En mi trayectoria profesional he desarrollado diferentes puestos, pero siempre me ha llamado la atención el Pentesting / Red Team aunque nunca he ocupado un puesto de ello.&#x20;
 
 Mi intención con este blog es compartir consejos, tips y guías sobre CTFs, certificaciones y demás, a parte de servirme de repositorio a mí mismo para tener ubicados recursos que puedan servirme en mi día a día, y por supuesto también a vosotr@s.
 
@@ -22,7 +46,7 @@ Intentaré organizarlo de la mejor forma posible para que sea accesible y útil 
 
 Welcome to my blog !&#x20;
 
-My name is Alan, I have been working in the Cybersecurity sector for about 3 years. In my professional career I have developed different positions, but I have always been interested in Pentesting / Red Team although I have never held a position of it.&#x20;
+My name is Alan, I have been working in the Cybersecurity sector for more than 4 years. In my professional career I have developed different positions, but I have always been interested in Pentesting / Red Team although I have never held a position of it.&#x20;
 
 My intention with this blog is to share advice, tips and guides about CTFs, certifications and others, as well as serve as a repository for myself to have located resources that can serve me in my day to day, and of course also to you.&#x20;
 
