@@ -28,6 +28,7 @@ Este roadmap no es fijo: lo voy ajustando según lo que aprendo, lo que me pide 
 3. [Android Application Pentesting](https://academy.hackthebox.com/path/preview/android-application-pentesting) (HTB Academy) ⏳
 4. Certificación de pentesting móvil, a elegir entre:
    * Certified Android Penetration Tester [CAPT](https://www.mobilehackinglab.com/courses/capt-certification) (Mobile Hacking Lab)
+   * Practical Mobile Pentest Associate [PMPA](https://certifications.tcm-sec.com/pmpa/) (TCM Security)
    * Mobile Application Penetration Tester [eMAPT](https://ine.com/security/certifications/emapt-certification) (INE)
 
 #### 🎯 Siguientes pasos — Infraestructura y Active Directory
